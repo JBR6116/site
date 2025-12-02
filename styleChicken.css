@@ -37,7 +37,7 @@ body.current-page .frame { background-image: url('creepykitchen.jpg'); }
   top: 40%; /* slightly down for balance */
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 80%;
+  width: 65%;
   max-width: 900px;
   aspect-ratio: 16 / 9;
   z-index: 2;
